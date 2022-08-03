@@ -1,8 +1,8 @@
-<h1> Hi there, My name is Maxim and I'm Frontend Developer <img width="70" src="./img/hello.gif"></h1>
+<h1> Hi there, My name is Maxim and I'm Frontend Developer <img width="70" src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif"></h1>
 
 🌱 Я закончил обучение в Яндекс.Практикуме по специальности Веб-разработчик. На данный момент я пытаюсь изучать TypeScript и разбираюсь с препроцессорами. Нахожусь в поисках работы :)
 
-⭐ Пообсуждаю с вами кино и музыку!
+⭐ <h2> Hobby: Music <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/"> and Wes Anderson films <img width="30px" src="https://media.giphy.com/media/hTmIYzedXc0LMNyRYc/giphy.gif" </h2>
 
 💬 Я всегда рад пообщаться и поработать вместе 🙂
 
@@ -13,7 +13,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram.png)](https://www.instagram.com/monzikov.m)
 &nbsp;&nbsp;
-[![website](./img/yandex.png)](monzikovm@yandex.ru)
+
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
