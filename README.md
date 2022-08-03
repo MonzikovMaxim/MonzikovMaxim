@@ -9,6 +9,11 @@
 
 ### 📫 Connect with me:  
 [@monzikovm](https://t.me/monzikovm) <img width="26px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" />
+[![website](./img/linkedin.png)](https://linkedin.com/in/monzikov-maxim)
+&nbsp;&nbsp;
+[![website](./img/telegram.png)](https://t.me/monzikovm)
+&nbsp;&nbsp;
+[![website](./img/instagram.png)](https://www.instagram.com/monzikov.m)
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
