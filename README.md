@@ -1,4 +1,4 @@
-<h2> Hi there, My name is Maxim and I'm Frontend Developer <img width="52px" src="https://media.giphy.com/media/5tQusXJlbJYuMCe6GY/giphy.gif"></h2>
+<h2> Hi there, My name is Maxim and I'm Frontend Developer <img width="70" src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif"></h2>
 
 
 🌱 Я закончил обучение в Яндекс.Практикуме по специальности Веб-разработчик. На данный момент я пытаюсь изучать TypeScript и разбираюсь с препроцессорами. Нахожусь в поисках работы :)
