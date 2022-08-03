@@ -2,7 +2,7 @@
 
 🌱 Я закончил обучение в Яндекс.Практикуме по специальности Веб-разработчик. На данный момент я пытаюсь изучать TypeScript и разбираюсь с препроцессорами. Нахожусь в поисках работы :)
 
-⭐ <h2> Hobby: Music <img width="36px" src="https://media.giphy.com/media/3ohc17UWaNMHjG4Nyw/giphy.gif"> and Wes Anderson films <img width="30px" src="https://media.giphy.com/media/hTmIYzedXc0LMNyRYc/giphy.gif"></h2>
+⭐ Hobby: Music <img width="36px" src="https://media.giphy.com/media/3ohc17UWaNMHjG4Nyw/giphy.gif"> and Wes Anderson films <img width="30px" src="https://media.giphy.com/media/hTmIYzedXc0LMNyRYc/giphy.gif">
 
 💬 Я всегда рад пообщаться и поработать вместе 🙂
 
