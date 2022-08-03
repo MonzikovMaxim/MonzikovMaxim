@@ -8,7 +8,8 @@
 💬 Я всегда рад пообщаться и поработать вместе 🙂
 
 ### 📫 Connect with me:  
-[![](https://data.jsdelivr.com/v1/package/npm/telegram/badge)](https://www.jsdelivr.com/package/npm/telegram)(https://t.me/monzikovm)
+![image](https://user-images.githubusercontent.com/79571377/182569761-98cee3cb-bc73-488a-a6c4-9d26a96a80b8.png)
+(https://t.me/monzikovm)
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
