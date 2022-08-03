@@ -21,7 +21,7 @@ and tools like HTML, CSS, Javascript, React, Express.js, MongoDB. <img width="30
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
+&nbsp;&nbsp;
 
 #### Languages and Tools that are in progress:
 <img align="left" alt="Redux" width="26px" src="./img/redux.png" />
