@@ -1,4 +1,4 @@
-<h2> Hi there, My name is Maxim and I'm Frontend Developer <img width="70" src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif"></h2>
+<h1> Hi there, My name is Maxim and I'm Frontend Developer <img width="70" src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif"></h1>
 
 
 🌱 Я закончил обучение в Яндекс.Практикуме по специальности Веб-разработчик. На данный момент я пытаюсь изучать TypeScript и разбираюсь с препроцессорами. Нахожусь в поисках работы :)
@@ -7,6 +7,13 @@
 
 💬 Я всегда рад пообщаться и поработать вместе 🙂
 
-📫 Можете писать мне сюда [@monzikovm](https://t.me/monzikovm)
+### 📫 Connect with me:  
+[<img src="https://www.jsdelivr.com/package/npm/telegram" width="26px" />](https://t.me/monzikovm)
 
-![gif](https://user-images.githubusercontent.com/79571377/132989029-51e92030-046c-45b8-8cb8-49b4818c616e.gif)
+### Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
