@@ -1,7 +1,7 @@
 <h1> Hi there, My name is Maxim and I'm Frontend Developer <img width="48" src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif"></h1>
 
-🌱 I have completed a 10 months course Web-Developer by Yandex Practicum. I studied the basic concepts of development 
-and tools like HTML, CSS, Javascript, React, Express.js, MongoDB. <img width="30px" src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif">
+🌱 I have completed a 10 months course Web-Developer by Yandex Practicum. 
+I studied the basic concepts of development and tools like HTML, CSS, Javascript, React, Express.js, MongoDB. <img width="30px" src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif">
 
 ⭐ Hobby: Music <img width="30px" src="https://media.giphy.com/media/3ohc17UWaNMHjG4Nyw/giphy.gif"> and Wes Anderson films <img width="30px" src="https://media.giphy.com/media/hTmIYzedXc0LMNyRYc/giphy.gif">
 
